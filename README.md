@@ -8,11 +8,9 @@ Built to spec: implements BIS CRE31–CRE36 exactly, including the maturity adju
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
----
-
 ## Live Dashboard
 
-** [Click here to open the live app](https://credit-var-engine-8nlxf4appjqnvurtsuiahud.streamlit.app/)**
+** [Click here to open the live app](https://basel-iii-irb-capital-engine-eb7fripsl3m5qpldp6kqez.streamlit.app/)**
 
 No installation required — runs entirely in your browser.
 
