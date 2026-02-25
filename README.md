@@ -4,6 +4,18 @@ A production-grade implementation of the Basel III Internal Ratings-Based (IRB) 
 
 Built to spec: implements BIS CRE31–CRE36 exactly, including the maturity adjustment (`b(PD)` function, CRE32.4) that most tutorials omit. Numbers match published Basel QIS results.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mugeniai05-credit-var-engine.streamlit.app)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+---
+
+## Live Dashboard
+
+** [Click here to open the live app](https://credit-var-engine-8nlxf4appjqnvurtsuiahud.streamlit.app/)**
+
+No installation required — runs entirely in your browser.
+
 ---
 
 ## Dashboard
