@@ -44,9 +44,16 @@ st.set_page_config(
 st.markdown("""
 <style>
     .stApp { background-color: #0a0c10; }
-    .metric-label { font-size: 11px !important; color: #718096 !important; }
+    .metric-label { font-size: 11px !important; color: #a0aec0 !important; }
     .metric-value { font-size: 20px !important; font-family: 'IBM Plex Mono', monospace !important; }
-    div[data-testid="stMetricValue"] { font-family: 'IBM Plex Mono', monospace; }
+    div[data-testid="stMetricValue"] { font-family: 'IBM Plex Mono', monospace; color: #e2e8f0 !important; }
+    h1 { color: #e2e8f0 !important; opacity: 1 !important; }
+    h2, h3 { color: #cbd5e0 !important; opacity: 1 !important; }
+    p, .stMarkdown { color: #a0aec0 !important; }
+    div[data-testid="stSidebarContent"] { background-color: #0d1117; }
+    div[data-testid="stSidebarContent"] p, div[data-testid="stSidebarContent"] .stMarkdown { color: #a0aec0 !important; }
+    div[data-testid="stSidebarContent"] h2 { color: #e2e8f0 !important; opacity: 1 !important; }
+    .stNumberInput label, .stSlider label, .stSelectbox label { color: #a0aec0 !important; }
 </style>
 """, unsafe_allow_html=True)
 
